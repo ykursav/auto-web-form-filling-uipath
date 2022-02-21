@@ -5,6 +5,7 @@
   "dependencies": {
     "UiPath": "[21.10.34.30369]",
     "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.Form.Activities": "[1.9.1]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.Platform": "[21.10.0]",
     "UiPath.System.Activities": "[21.10.4]",
